@@ -1,0 +1,16 @@
+X:\ISCG6421 - DUI Programma\Assignment2\Towers of Hanoi\Towers of Hanoi\bin\Debug\Towers of Hanoi.exe.config
+X:\ISCG6421 - DUI Programma\Assignment2\Towers of Hanoi\Towers of Hanoi\bin\Debug\Towers of Hanoi.exe
+X:\ISCG6421 - DUI Programma\Assignment2\Towers of Hanoi\Towers of Hanoi\bin\Debug\Towers of Hanoi.pdb
+X:\ISCG6421 - DUI Programma\Assignment2\Towers of Hanoi\Towers of Hanoi\obj\Debug\Towers of Hanoi.csprojResolveAssemblyReference.cache
+X:\ISCG6421 - DUI Programma\Assignment2\Towers of Hanoi\Towers of Hanoi\obj\Debug\Towers_of_Hanoi.MainForm.resources
+X:\ISCG6421 - DUI Programma\Assignment2\Towers of Hanoi\Towers of Hanoi\obj\Debug\Towers_of_Hanoi.Properties.Resources.resources
+X:\ISCG6421 - DUI Programma\Assignment2\Towers of Hanoi\Towers of Hanoi\obj\Debug\Towers of Hanoi.csproj.GenerateResource.Cache
+X:\ISCG6421 - DUI Programma\Assignment2\Towers of Hanoi\Towers of Hanoi\obj\Debug\Towers of Hanoi.exe
+X:\ISCG6421 - DUI Programma\Assignment2\Towers of Hanoi\Towers of Hanoi\obj\Debug\Towers of Hanoi.pdb
+X:\ISCG6421 - DUI Programma\Assignment2\Towers of Hanoi\Towers of Hanoi\bin\Debug\Towers of Hanoi.exe.manifest
+X:\ISCG6421 - DUI Programma\Assignment2\Towers of Hanoi\Towers of Hanoi\bin\Debug\Towers of Hanoi.application
+X:\ISCG6421 - DUI Programma\Assignment2\Towers of Hanoi\Towers of Hanoi\obj\Debug\Towers of Hanoi.exe.manifest
+X:\ISCG6421 - DUI Programma\Assignment2\Towers of Hanoi\Towers of Hanoi\obj\Debug\Towers of Hanoi.application
+X:\ISCG6421 - DUI Programma\Assignment2\Towers of Hanoi(6Disks)\Towers of Hanoi\bin\Debug\Towers of Hanoi.exe.config
+X:\ISCG6421 - DUI Programma\Assignment2\Towers of Hanoi(6Disks)\Towers of Hanoi\obj\Debug\Towers of Hanoi.exe
+X:\ISCG6421 - DUI Programma\Assignment2\Towers of Hanoi(6Disks)\Towers of Hanoi\obj\Debug\Towers of Hanoi.pdb
